@@ -1,0 +1,3 @@
+[submodule "wtptp/src/rust-libs/rexpect"]
+	path = wtptp/src/rust-libs/rexpect
+	url = https://gitlab.com/cheako/rexpect.git
